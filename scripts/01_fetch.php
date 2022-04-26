@@ -1,5 +1,24 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
+$basePath = dirname(__DIR__);
+
+/**
+    [0] => 3835010175
+    [1] => 錦昌中醫診所
+    [2] => 2
+    [3] => 4
+    [4] => 2022
+    [5] => NNNNNNYNNNNNNYNNNNYYY
+    [6] => 每週日及週五 週六晚上休診，每日下午3:00門診
+    [7] => 0
+    [8] => 20220426173036
+ */
+$fh = fopen($basePath . '/raw/A21030000I-D21006-001.csv', 'r');
+fgetcsv($fh, 2048);
+$pool = [];
+while ($line = fgetcsv($fh, 2048)) {
+    $pool[$line[0]] = $line[5];
+}
 
 use Goutte\Client;
 
@@ -8,6 +27,51 @@ $client = new Client();
  * 健保特約機構防疫家用快篩剩餘數量明細
  * https://data.nhi.gov.tw/Datasets/DatasetDetail.aspx?id=698
  */
+$rawFile = $basePath . '/raw/A21030000I-D03001-001.csv';
 $client->request('GET', 'https://data.nhi.gov.tw/resource/Nhi_Fst/Fstdata.csv');
-$rawFile = dirname(__DIR__) . '/raw/A21030000I-D03001-001.csv';
 file_put_contents($rawFile, $client->getResponse()->getContent());
+
+/**
+    [0] => 醫事機構代碼
+    [1] => 醫事機構名稱
+    [2] => 醫事機構地址
+    [3] => 經度
+    [4] => 緯度
+    [5] => 醫事機構電話
+    [6] => 廠牌項目
+    [7] => 快篩試劑截至目前結餘存貨數量
+    [8] => 備註
+    [9] => 來源資料時間
+ */
+$fc = [
+    'type' => 'FeatureCollection',
+    'features' => [],
+];
+$fh = fopen($rawFile, 'r');
+fgetcsv($fh, 2048);
+while ($line = fgetcsv($fh, 2048)) {
+    $f = [
+        'type' => 'Feature',
+        'properties' => [
+            'id' => $line[0],
+            'name' => $line[1],
+            'phone' => $line[5],
+            'address' => $line[2],
+            'brand' => $line[6],
+            'count' => intval($line[7]),
+            'note' => $line[8],
+            'updated' => $line[9],
+            'service_periods' => isset($pool[$line[0]]) ? $pool[$line[0]] : '',
+        ],
+        'geometry' => [
+            'type' => 'Point',
+            'coordinates' => [
+                floatval($line[3]),
+                floatval($line[4]),
+            ],
+        ],
+    ];
+    $fc['features'][] = $f;
+}
+
+file_put_contents($basePath . '/docs/antigen.json', json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
