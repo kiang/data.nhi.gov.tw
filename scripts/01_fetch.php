@@ -49,7 +49,12 @@ $fc = [
 ];
 $fh = fopen($rawFile, 'r');
 fgetcsv($fh, 2048);
+$check = [];
 while ($line = fgetcsv($fh, 2048)) {
+    if (isset($check[$line[0]])) {
+        continue;
+    }
+    $check[$line[0]] = true;
     $f = [
         'type' => 'Feature',
         'properties' => [
