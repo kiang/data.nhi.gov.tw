@@ -11,7 +11,7 @@
                 "brand": "羅氏家用新冠病毒抗原自我檢測套組",
                 "count": 379,
                 "note": "無",
-                "updated": "2022\/04\/27 09:33:01",
+                "updated": "2022\/04\/27 09:34:01",
                 "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
             },
             "geometry": {
@@ -32,7 +32,7 @@
                 "brand": "羅氏家用新冠病毒抗原自我檢測套組",
                 "count": 180,
                 "note": "無",
-                "updated": "2022\/04\/27 09:33:01",
+                "updated": "2022\/04\/27 09:34:01",
                 "service_periods": ""
             },
             "geometry": {
@@ -40,6 +40,27 @@
                 "coordinates": [
                     121.5169,
                     25.04613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901024678",
+                "name": "大安健康人生藥局",
+                "phone": "27025553",
+                "address": "臺北市大安區信義路４段３４號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 227,
+                "note": "無",
+                "updated": "2022\/04\/27 09:34:01",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5447,
+                    25.03316
                 ]
             }
         }
