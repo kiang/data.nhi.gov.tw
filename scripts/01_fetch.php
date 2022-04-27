@@ -40,8 +40,8 @@ file_put_contents($rawFile, $client->getResponse()->getContent());
     [5] => 醫事機構電話
     [6] => 廠牌項目
     [7] => 快篩試劑截至目前結餘存貨數量
-    [8] => 備註
-    [9] => 來源資料時間
+    [8] => 來源資料時間
+    [9] => 備註
  */
 $fc = [
     'type' => 'FeatureCollection',
@@ -55,6 +55,12 @@ while ($line = fgetcsv($fh, 2048)) {
         continue;
     }
     $check[$line[0]] = true;
+    if (isset($line[10])) {
+        $keyCount = count($line);
+        for ($i = 10; $i <= $keyCount; $i++) {
+            $line[9] .= ',' . $line[$i];
+        }
+    }
     $f = [
         'type' => 'Feature',
         'properties' => [
