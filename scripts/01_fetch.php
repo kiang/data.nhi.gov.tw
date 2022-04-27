@@ -59,8 +59,8 @@ while ($line = fgetcsv($fh, 2048)) {
             'address' => $line[2],
             'brand' => $line[6],
             'count' => intval($line[7]),
-            'note' => $line[8],
-            'updated' => $line[9],
+            'note' => $line[9],
+            'updated' => $line[8],
             'service_periods' => isset($pool[$line[0]]) ? $pool[$line[0]] : '',
         ],
         'geometry' => [
