@@ -1,47 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "3501200000",
-                "name": "臺北虛擬診所",
-                "phone": "27065866",
-                "address": "臺北市中正區許昌街１７號８樓　醫務管理科",
-                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
-                "count": 226,
-                "note": "無",
-                "updated": "2022\/04\/27 18:39:02",
-                "service_periods": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5169,
-                    25.04613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "5934012240",
-                "name": "東成藥局",
-                "phone": "9380353",
-                "address": "宜蘭縣宜蘭市東港路２段３０６號１樓",
-                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
-                "count": 146,
-                "note": "週二休息",
-                "updated": "2022\/04\/27 18:39:02",
-                "service_periods": "NYNNNNNNYNNNNNNYNNNNN"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.7643,
-                    24.75315
-                ]
-            }
-        }
-    ]
+    "features": []
 }
