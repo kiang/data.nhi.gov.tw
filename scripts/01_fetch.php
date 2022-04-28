@@ -61,6 +61,11 @@ while ($line = fgetcsv($fh, 2048)) {
             $line[9] .= ',' . $line[$i];
         }
     }
+    foreach ($line as $k => $v) {
+        if ($k !== 8) {
+            $line[$k] = preg_replace('/\s+/', '', $v);
+        }
+    }
     $f = [
         'type' => 'Feature',
         'properties' => [
