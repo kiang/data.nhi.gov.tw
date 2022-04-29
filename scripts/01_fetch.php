@@ -107,6 +107,7 @@ while ($line = fgetcsv($fh, 2048)) {
     }
 }
 foreach ($targetPool as $f) {
+    $f['properties']['count'] = 0; // force 0 if the record was removed
     $fc['features'][] = $f;
 }
 
