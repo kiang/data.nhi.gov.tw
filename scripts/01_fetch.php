@@ -66,6 +66,11 @@ while ($line = fgetcsv($fh, 2048)) {
             $line[$k] = preg_replace('/\s+/', '', $v);
         }
     }
+    if ($line[3] < $line[4]) {
+        $tmp = $line[3];
+        $line[3] = $line[4];
+        $line[4] = $tmp;
+    }
     $f = [
         'type' => 'Feature',
         'properties' => [
