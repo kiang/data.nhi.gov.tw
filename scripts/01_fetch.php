@@ -2,6 +2,14 @@
 require __DIR__ . '/vendor/autoload.php';
 $basePath = dirname(__DIR__);
 
+$targetFile = $basePath . '/docs/antigen.json';
+$targetPool = [];
+if (file_exists($targetFile)) {
+    $json = json_decode(file_get_contents($targetFile), true);
+    foreach ($json['features'] as $f) {
+        $targetPool[$f['properties']['id']] = $f;
+    }
+}
 /**
     [0] => 3835010175
     [1] => 錦昌中醫診所
@@ -50,6 +58,7 @@ $fc = [
 $fh = fopen($rawFile, 'r');
 fgetcsv($fh, 2048);
 $check = [];
+
 while ($line = fgetcsv($fh, 2048)) {
     if (isset($check[$line[0]])) {
         continue;
@@ -93,6 +102,12 @@ while ($line = fgetcsv($fh, 2048)) {
         ],
     ];
     $fc['features'][] = $f;
+    if (isset($targetPool[$line[0]])) {
+        unset($targetPool[$line[0]]);
+    }
+}
+foreach ($targetPool as $f) {
+    $fc['features'][] = $f;
 }
 
-file_put_contents($basePath . '/docs/antigen.json', json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+file_put_contents($targetFile, json_encode($fc, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
