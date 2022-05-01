@@ -1,0 +1,2315 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2343270013",
+                "name": "屏東縣霧台鄉衛生所",
+                "phone": "(08)7902232",
+                "address": "屏東縣霧台鄉霧台村神山巷６８號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 122,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7261,
+                    22.74989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901013362",
+                "name": "啄木鳥藥局",
+                "phone": "(02)27422413",
+                "address": "臺北市松山區八德路４段２０９號、２１１號（１、２層）",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564,
+                    25.04894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901025031",
+                "name": "中力信義藥局",
+                "phone": "(02)23250266",
+                "address": "臺北市大安區信義路４段５１號（１樓）",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "下午一點到三點販售實名制快篩",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545,
+                    25.03354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901090154",
+                "name": "柯藥局",
+                "phone": "(02)25948515",
+                "address": "臺北市大同區重慶北路３段３３５巷６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 94,
+                "note": "库存已零如何歸零",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5144,
+                    25.07452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901100333",
+                "name": "明美藥局",
+                "phone": "(02)25365419",
+                "address": "臺北市中山區長春路６９號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩周一至周五，16:30-18:30販售",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "YYYYYYYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5266,
+                    25.05502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901103352",
+                "name": "美康正康藥局",
+                "phone": "(02)25323077",
+                "address": "臺北市中山區北安路６１６之１號、６１８號２樓之１",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制快篩:14:30~售完",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549,
+                    25.08243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901112100",
+                "name": "盧狄聯合藥局",
+                "phone": "(02)26308897",
+                "address": "臺北市內湖區康寧路３段１８９巷５７號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "營業時間早上9點至晚上8點，週六上半天**快篩實名制08:00開賣**",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6129,
+                    25.07133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901153665",
+                "name": "康佑藥局",
+                "phone": "(02)28119981",
+                "address": "臺北市士林區延平北路５段１７６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制快篩9點開始",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5103,
+                    25.08299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901160099",
+                "name": "進春藥局",
+                "phone": "(02)28216938",
+                "address": "臺北市北投區明德路１５１號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 147,
+                "note": "無休上午九點開始販售，現場排隊。（依現場公告為主）",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5206,
+                    25.11086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901160197",
+                "name": "川秀藥局",
+                "phone": "(02)28270702",
+                "address": "臺北市北投區石牌路２段９９巷９號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "5／1快篩已賣完，明日下午二點開賣",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5166,
+                    25.11792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901163250",
+                "name": "關渡松藥局",
+                "phone": "(02)28584824",
+                "address": "臺北市北投區知行路２４７號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩時段:星期一至星期五早上9:00及晚上18:30，星期六日為下午15:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4671,
+                    25.12074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901163296",
+                "name": "天禧大藥局",
+                "phone": "(02)28213558",
+                "address": "臺北市北投區實踐街３５號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 2,
+                "note": "實名制快篩下午1:30現場販售",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5087,
+                    25.11521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901184473",
+                "name": "中力藥局",
+                "phone": "(02)23313768",
+                "address": "臺北市中正區襄陽路１３之５號、１５號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制快篩販售時間：09:30~售完為止",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5155,
+                    25.04349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901190177",
+                "name": "信昌藥局",
+                "phone": "(02)23054898",
+                "address": "臺北市萬華區長泰街３６號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "快篩實名制販售時間:週一~週日9:00起售完為止",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5007,
+                    25.02336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901190668",
+                "name": "聯慶大藥局",
+                "phone": "(02)23039850",
+                "address": "臺北市萬華區萬大路３０６號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNYYYYYYNYYYYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5003,
+                    25.02495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901192448",
+                "name": "健誠大藥局",
+                "phone": "(02)23042223",
+                "address": "臺北市萬華區環河南路２段１８５號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販售：週六早上10點開始，其他日早上9點開始，周日休息",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4919,
+                    25.03246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5902020012",
+                "name": "永松藥局",
+                "phone": "(07)5810657",
+                "address": "高雄市鼓山區鼓山三路１３０－１５號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "周一到周日早上9點開始賣口罩，到晚上10點.",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2802,
+                    22.66454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5902022801",
+                "name": "裕康中西大藥局",
+                "phone": "(07)5555352",
+                "address": "高雄市鼓山區裕誠路１５１９號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 80,
+                "note": "藥局販售口罩時間，依藥局門口公告時間為主（售完為止）",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNYYYYYYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2951,
+                    22.66479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5902060025",
+                "name": "連作藥局",
+                "phone": "(07)2154716",
+                "address": "高雄市新興區大同一路２０３－１號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 6,
+                "note": "快篩試紙領用時間為每日下午2點5／1日周日加班晚間目前營業中開放領快篩",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3003,
+                    22.62856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5902085228",
+                "name": "永森藥局",
+                "phone": "(07)7163087",
+                "address": "高雄市苓雅區建國一路２９０號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 24,
+                "note": "快篩代售時間:營業時間",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3262,
+                    22.63308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5903090143",
+                "name": "佳福藥局",
+                "phone": "(04)25332982",
+                "address": "臺中市潭子區中山路１段４３－１號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "每日中午12:00至下午3:00休息，星期六公休",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNYNNNNNNYNNNNNNYN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7023,
+                    24.19138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5903160088",
+                "name": "必安藥局",
+                "phone": "(04)26992116",
+                "address": "臺中市大肚區沙田路二段６３４號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "週一~週六早上8點發放快篩",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5455,
+                    24.15084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5903190693",
+                "name": "維肯藥局",
+                "phone": "(04)23512198",
+                "address": "臺中市太平區中興路７８－１號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制快篩星期一~六早上九點開始發放",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.7163,
+                    24.12783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5903260814",
+                "name": "杏一北區文心藥局",
+                "phone": "(04)22993847",
+                "address": "臺中市北區文心路４段２１０－８號１、２樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "防疫口罩每日中午12時開始販售",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678,
+                    24.1729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5903280067",
+                "name": "博川健保藥局",
+                "phone": "(04)24732995",
+                "address": "臺中市南屯區大墩５街２９８號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制快篩12:00開始販售",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6486,
+                    24.14257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5903280763",
+                "name": "全順藥局",
+                "phone": "(04)24730983",
+                "address": "臺中市南屯區永春東路３３９號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制口罩販賣時段-平日8：00~12:00，15:00~21:00，週六8點~13點，周日公休",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6477,
+                    24.13447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5905310880",
+                "name": "永東藥局",
+                "phone": "(06)2318700",
+                "address": "臺南市永康區中山路５５號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 38,
+                "note": "口罩販售時間：星期一~五09:45~11:45、16:00~18:00星期六08.30~10.30、16:00~18:00星期日08:30~10:30",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2562,
+                    23.02921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5907011111",
+                "name": "壹然藥局",
+                "phone": "(07)7014755",
+                "address": "高雄市鳳山區中正里瑞興路４６２號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 10,
+                "note": "今日已停止營業販售，明日5／1（日）早上8:30開始販賣，剩餘22，其餘須等政府當日配售，時間不定",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3713,
+                    22.63084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5907011219",
+                "name": "協康健保藥局",
+                "phone": "(07)7199259",
+                "address": "高雄市鳳山區瑞竹里博愛路２１５號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "5／2實名制快篩於下午三點開賣",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3704,
+                    22.62887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5911031176",
+                "name": "家宏藥局",
+                "phone": "(02)24595982",
+                "address": "基隆市暖暖區源遠路２８１之２號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 30,
+                "note": "4／30~5／3無配送實名制快篩試劑，4天無試劑販售.",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7563,
+                    25.0992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5911041958",
+                "name": "百福仁愛專業藥局",
+                "phone": "(02)24266699",
+                "address": "基隆市仁愛區仁四路５０號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "4／30起，早上8:00販售快篩",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7413,
+                    25.12829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5911051267",
+                "name": "親親藥局",
+                "phone": "(02)24378323",
+                "address": "基隆市中山區復興路１８１號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNYNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7264,
+                    25.14587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5911051392",
+                "name": "寶慷藥局",
+                "phone": "(02)24362338",
+                "address": "基隆市中山區復興路１９１號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7263,
+                    25.14611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5911071607",
+                "name": "家安藥師藥局",
+                "phone": "(02)24223917",
+                "address": "基隆市信義區信二路２５７、２５９號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "星期一~星期五13:30開始銷售。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7478,
+                    25.1301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5912013216",
+                "name": "宏禎藥局",
+                "phone": "(03)5750238",
+                "address": "新竹市東區建新路４０號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販賣時段:平日與假日上午8:00起現場排隊至售完為止",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9971,
+                    24.79818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5917041765",
+                "name": "荃大藥局",
+                "phone": "(04)22858850",
+                "address": "臺中市南區臺中路１５４號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "防疫口罩銷售時間:早上9:15~12:00止.（星期日無防疫口罩）.",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6843,
+                    24.13114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5921020185",
+                "name": "安心藥局",
+                "phone": "(06)2622570",
+                "address": "臺南市南區喜東里喜樹路１５１巷３３號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "快篩服務時間星期一至星期五上午8時至10時",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18,
+                    22.94099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931010342",
+                "name": "宏達大藥局",
+                "phone": "(02)22572345",
+                "address": "新北市板橋區莒光路１７號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "快篩晚上20:00開始販售!不要打電話來問題這麼多就到現場也不給你問",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47,
+                    25.02478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931010397",
+                "name": "正成藥師藥局",
+                "phone": "(02)29512760",
+                "address": "新北市板橋區三民路２段１５４巷７號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 156,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYYYYYYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4787,
+                    25.01515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931014420",
+                "name": "萬泰藥局",
+                "phone": "(02)89645570",
+                "address": "新北市板橋區信義路２２１之１號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "YYYYYYYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4597,
+                    24.99145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931017636",
+                "name": "福澤藥局",
+                "phone": "(02)29690013",
+                "address": "新北市板橋區南雅南路１段８５號（１樓）",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 44,
+                "note": "口罩代售9:00-23:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4556,
+                    25.00543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931023581",
+                "name": "大重仁藥局",
+                "phone": "(02)29958283",
+                "address": "新北市三重區重新路５段５９２號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 39,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNYYNNNNYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4694,
+                    25.04539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931023858",
+                "name": "開元藥局",
+                "phone": "(02)29873976",
+                "address": "新北市三重區正義北路３２４號２樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 59,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4949,
+                    25.07039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931025441",
+                "name": "尚好藥局",
+                "phone": "(02)22863232",
+                "address": "新北市三重區力行路２段１４２號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "星期一~星期六早上9點開賣實名制，星期日公休",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4823,
+                    25.07611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931030013",
+                "name": "皇誼藥局",
+                "phone": "(02)29278732",
+                "address": "新北市永和區文化路３３號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5147,
+                    25.01499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931040215",
+                "name": "華新藥局",
+                "phone": "(02)29448345",
+                "address": "新北市中和區華新街７３號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5082,
+                    24.98392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931043047",
+                "name": "藥安藥局",
+                "phone": "(02)22447066",
+                "address": "新北市中和區廣福路１６號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "星期日公休",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5052,
+                    25.00277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931043396",
+                "name": "立健藥局",
+                "phone": "(02)22230614",
+                "address": "新北市中和區連城路３１７號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "週一~週六營業時間均有口罩銷售，週日休假",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4892,
+                    24.99607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931045176",
+                "name": "藥安連勝藥局",
+                "phone": "(02)22425266",
+                "address": "新北市中和區連勝街３７號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制快篩下午1點開始過卡配發",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4983,
+                    24.9977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931060557",
+                "name": "一安藥局",
+                "phone": "(02)29941618",
+                "address": "新北市新莊區立德里新泰路２６８號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩發放時段，每日8:30~22:00（發完為止）",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446,
+                    25.04029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931060628",
+                "name": "錄新藥局",
+                "phone": "(02)22051849",
+                "address": "新北市新莊區後港一路７６巷１０弄１號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.427,
+                    25.02604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931069498",
+                "name": "新杏藥局",
+                "phone": "(02)22011012",
+                "address": "新北市新莊區新泰路９９號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "固定週一至週日15:00開始發放號碼牌並依序販售口罩，售完為止。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449,
+                    25.03497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931092095",
+                "name": "禾雅藥局",
+                "phone": "(02)26718621",
+                "address": "新北市三峽區文化路１３０號（１樓）",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 20,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3709,
+                    24.93626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931133546",
+                "name": "宏林保健藥局",
+                "phone": "(02)82615919",
+                "address": "新北市土城區裕民路１３４號（１樓）",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4515,
+                    24.98622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931151660",
+                "name": "祐康藥師藥局",
+                "phone": "(02)82921335",
+                "address": "新北市五股區五福路３６號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩代售時間:一至六早上8:30開始販售，星期日早上9:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4339,
+                    25.08922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931170129",
+                "name": "麗園藥局",
+                "phone": "(02)26009405",
+                "address": "新北市林口區麗園一街６巷１－４號１Ｆ",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNYNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3766,
+                    25.07012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931171411",
+                "name": "康旭藥局",
+                "phone": "(02)26007808",
+                "address": "新北市林口區麗園一街６巷９號１樓－３",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販賣時間：星期一到星期六08:00-17:30，售完為止。（星期日暫停販售）",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3751,
+                    25.07145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931171582",
+                "name": "綠園藥局",
+                "phone": "(02)86012258",
+                "address": "新北市林口區仁愛路２段１０５號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 4,
+                "note": "上午8:30-12:00、下午2:30-18:00、晚上18:00-21:30",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3843,
+                    25.07507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931171779",
+                "name": "全球忠孝藥局",
+                "phone": "(02)26092139",
+                "address": "新北市林口區忠孝路４９７號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "營業時間:9:00-22:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3708,
+                    25.07028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931181159",
+                "name": "信東深坑北深藥局",
+                "phone": "(02)77092976",
+                "address": "新北市深坑區北深路３段１０３號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "快篩代售時間自13:00；現場排隊",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6056,
+                    25.00171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5931250015",
+                "name": "松南藥局",
+                "phone": "(02)24931085",
+                "address": "新北市雙溪區中華路２９號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 18,
+                "note": "週一至週五營業至晚上21點.週六至20點週日至12點",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8658,
+                    25.03728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932011638",
+                "name": "明光藥局",
+                "phone": "(03)3380427",
+                "address": "桃園市桃園區中山東路１１７之１號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "口罩販賣時段：0900-1200--1400-1800",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNYYYYYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.317,
+                    24.9968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932020360",
+                "name": "日進藥局",
+                "phone": "(03)4569132",
+                "address": "桃園市中壢區中山東路二段１５６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "營業時間:早上08:00至晚上09:30（週日下午休息）",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2394,
+                    24.95276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932021269",
+                "name": "優良藥局",
+                "phone": "(03)4612336",
+                "address": "桃園市中壢區長春路２０號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "快篩販售時段：9:30-10:30",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2499,
+                    24.97907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932022524",
+                "name": "家佳聯合藥局",
+                "phone": "(03)4273960",
+                "address": "桃園市中壢區中光路１４號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制快篩:12：00販賣，售完為止",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2256,
+                    24.95717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932023996",
+                "name": "青瑭藥局",
+                "phone": "(03)2875901",
+                "address": "桃園市中壢區民權路４段２７７號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2022,
+                    25.00625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932028491",
+                "name": "新典藥局",
+                "phone": "(03)4371986",
+                "address": "桃園市中壢區龍東路４２５號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "8:00-12:00；15:00-21:00；三節營業至12:00／口罩販賣時段：08：00發放號碼牌",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNYNNNNYNYNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2561,
+                    24.93391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932040246",
+                "name": "龍泰藥局",
+                "phone": "(03)4901525",
+                "address": "桃園市楊梅區民族路五段１４７巷２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販售時間：08:00開賣至11:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1736,
+                    24.9586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932060088",
+                "name": "銘方大藥局",
+                "phone": "(03)3865077",
+                "address": "桃園市大園區大園里中華路３２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "快篩試劑販賣時段:早上8:30起至售完為止",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1982,
+                    25.06647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932077305",
+                "name": "全興藥局",
+                "phone": "(03)3597901",
+                "address": "桃園市龜山區光峰路１５３號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "上午8:30開始販售實名制快篩試劑，禮拜日公休。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3427,
+                    25.0026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932077430",
+                "name": "長庚藥局",
+                "phone": "(03)3181679",
+                "address": "桃園市龜山區文化三路８１巷２８號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "快篩發放時間下午2:50~6:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3637,
+                    25.05847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932077645",
+                "name": "美康萬壽藥局",
+                "phone": "(02)82000001",
+                "address": "桃園市龜山區萬壽路１段３２５號１、２樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "5／1下午兩點開始發號碼牌販售公費快篩",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4024,
+                    25.0169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932083974",
+                "name": "晨鴻藥師藥局",
+                "phone": "(03)3764299",
+                "address": "桃園市八德區桃鶯路７號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "兒童口罩早上8:30領取號碼牌一定發完因為一天只有20個名額，請勿再打電話詢問謝謝",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3265,
+                    24.97179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932084793",
+                "name": "美康健保藥局",
+                "phone": "(03)3613624",
+                "address": "桃園市八德區桃鶯路９１號１、２樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.328,
+                    24.97036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5932099776",
+                "name": "愛心藥局",
+                "phone": "(03)4706717",
+                "address": "桃園市龍潭區五福街１５巷３號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販賣時段：0800～售完",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2177,
+                    24.86528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5933011196",
+                "name": "高平堂藥局",
+                "phone": "(03)5872263",
+                "address": "新竹縣關西鎮正義路66號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "相關公告請搜尋FB【高平堂藥局】",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1762,
+                    24.79269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5933011267",
+                "name": "關西藥局",
+                "phone": "(03)5171121",
+                "address": "新竹縣關西鎮中山路６８號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "快篩實名制，每天16:00開始販售，售完為止。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1764,
+                    24.79148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5933052866",
+                "name": "晶華藥局",
+                "phone": "(03)5502107",
+                "address": "新竹縣竹北市莊敬南路１１０號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "4／2814:00販售公費快篩",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0203,
+                    24.81736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5933052955",
+                "name": "仁里藥局",
+                "phone": "(03)6673878",
+                "address": "新竹縣竹北市勝利二路１２５號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販賣時段：星期一~日10:00-12:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0278,
+                    24.82236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5933053041",
+                "name": "中一藥局",
+                "phone": "(03)6670827",
+                "address": "新竹縣竹北市文興路一段２４２號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "更新:快篩販售時間下午16:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0287,
+                    24.81018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5934010013",
+                "name": "永安藥局",
+                "phone": "(03)9332039",
+                "address": "宜蘭縣宜蘭市復興路６１號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "快篩販售時間，早上8:30-12:00下午2:30-9:00（周六8:30-12:00）",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7542,
+                    24.74964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5937021509",
+                "name": "老信和藥局",
+                "phone": "(04)7711098",
+                "address": "彰化縣鹿港鎮頂番里鹿和路四段４０號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "周一至周五09:00~21:30周六09:00~12:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4811,
+                    24.08594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5937052059",
+                "name": "華衛藥局",
+                "phone": "(04)8397503",
+                "address": "彰化縣員林市惠來里南昌路９６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "快篩販售時間8:20至09:50",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5719,
+                    23.95464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5937052264",
+                "name": "醫聯藥師藥局",
+                "phone": "(04)8360617",
+                "address": "彰化縣員林市三條里員東路二段４１０號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 4,
+                "note": "快篩實名制每天下午15:00開始販售，售完為止",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5811,
+                    23.95898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5937052451",
+                "name": "統信藥局",
+                "phone": "(04)8367089",
+                "address": "彰化縣員林市正興街３７２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 2,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5722,
+                    23.95997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5937052513",
+                "name": "正光藥局員林店",
+                "phone": "(04)8328765",
+                "address": "彰化縣員林市三民東街３１０、３１２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "實名制快篩下午13:30開始販售",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5814,
+                    23.96036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5937081596",
+                "name": "二林藥局",
+                "phone": "(04)8950010",
+                "address": "彰化縣二林鎮斗苑路五段３９號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "快篩實名制，每天16:00開始販售，售完為止。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3709,
+                    23.89951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5937161133",
+                "name": "石埤藥局",
+                "phone": "(04)8655146",
+                "address": "彰化縣埔鹽鄉石埤村番金路８０之１６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 2,
+                "note": "週一至週日早上08:00開始販賣快篩.售完為止。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4225,
+                    23.98887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5939031576",
+                "name": "良方藥局",
+                "phone": "(05)6312106",
+                "address": "雲林縣虎尾鎮中山路５７號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "週一至週六營業時間販售，吃飯時間休息",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4344,
+                    23.70764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5939032724",
+                "name": "虎尾藥局",
+                "phone": "(05)6336330",
+                "address": "雲林縣虎尾鎮林森路二段１１７、１１９號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 312,
+                "note": "新開業，健保系統線路建置中，尚無法使用健保系統販售實名制快篩試劑。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4298,
+                    23.70595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5939071276",
+                "name": "慈生藥局",
+                "phone": "(05)5828222",
+                "address": "雲林縣古坑鄉麻園村平和２２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 53,
+                "note": "週三.四.六.日下午3-5點販售實名制快篩",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "YYYYYYNYYNNYNNYNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5203,
+                    23.6351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5939071294",
+                "name": "元林中西藥局",
+                "phone": "(05)5828229",
+                "address": "雲林縣古坑鄉西平村西平路９－２號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "販賣口罩時間：08:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5606,
+                    23.64679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5939191380",
+                "name": "亞洲藥局",
+                "phone": "(05)7991108",
+                "address": "雲林縣口湖鄉崙東村中山路７８－２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "1000（賣完為止）",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1649,
+                    23.6175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5940031368",
+                "name": "溝背藥局",
+                "phone": "(05)2955878",
+                "address": "嘉義縣大林鎮義和里三塊厝７－７號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "週日下午晚上休息",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4859,
+                    23.61441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5940041435",
+                "name": "嘉方藥局",
+                "phone": "(05)2066747",
+                "address": "嘉義縣民雄鄉中樂村昇平路５８號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 51,
+                "note": "早上08:00開始販賣，賣完為止",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNYNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4303,
+                    23.55781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5940111450",
+                "name": "祥和藥局",
+                "phone": "(05)3623006",
+                "address": "嘉義縣太保市太保二路１４９號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "周一至周六早上八點開始販售快篩，周六僅上午營業",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2951,
+                    23.45484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5940120137",
+                "name": "德安藥局",
+                "phone": "(05)2688835",
+                "address": "嘉義縣水上鄉南和村後寮２６之６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 64,
+                "note": "星期日公休",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.362,
+                    23.41007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5940121394",
+                "name": "水上藥局",
+                "phone": "(05)2601121",
+                "address": "嘉義縣水上鄉水頭村中興路２６６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "快篩實名制，每天16:00開始販售，售完為止。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4029,
+                    23.43014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5940141305",
+                "name": "東義藥局",
+                "phone": "(05)2110957",
+                "address": "嘉義縣竹崎鄉獅埜村東義２０－１８號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "無",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNYYYYYYYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4898,
+                    23.51273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5941061173",
+                "name": "杏安藥局",
+                "phone": "(06)5801081",
+                "address": "臺南市新化區武安里信義路３２０號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "週一至週六早8點開快篩販賣販賣",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYYYYYYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3063,
+                    23.03475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5942013411",
+                "name": "長喜藥局",
+                "phone": "(07)7671007",
+                "address": "高雄市鳳山區大明路７６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "固定周一至周六09:00-22:00周日14:00-17:00購買快篩",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342,
+                    22.60811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5942013699",
+                "name": "新怡安藥局",
+                "phone": "(07)7633565",
+                "address": "高雄市鳳山區海洋里新富路５１２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 2,
+                "note": "自2／11日~2／29日，營業日09:00~22:30為販賣口罩時間，售完為止，",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3474,
+                    22.61403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5942013804",
+                "name": "長喜連鎖藥局",
+                "phone": "(07)7961070",
+                "address": "高雄市鳳山區鳳甲路４９２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "一.週日執業時間公休.",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3462,
+                    22.59758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5943012892",
+                "name": "立健藥局",
+                "phone": "(08)7328039",
+                "address": "屏東縣屏東市勝利里廣東路９６２號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "營業日週一至週五09:00~21:00、",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNYYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4862,
+                    22.68773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5945013057",
+                "name": "富強健康藥局",
+                "phone": "(03)8571839",
+                "address": "花蓮縣花蓮市國裕里２２鄰富強路１２８號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 1,
+                "note": "營業時間:上午8:30~13:00下午17:30~21:30公休日:另行通知。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNYYYYYYYNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5971,
+                    23.99707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5945021086",
+                "name": "安康鳳林藥局",
+                "phone": "(03)8762227",
+                "address": "花蓮縣鳳林鎮仁愛街１０號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 2,
+                "note": "快篩發放時間，依現場公告為主，售完為止。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4503,
+                    23.74937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5945051726",
+                "name": "安康藥局",
+                "phone": "(03)8513951",
+                "address": "花蓮縣吉安鄉中山路３段３８４號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販售時間同營業時間",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5689,
+                    23.97907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5945091113",
+                "name": "瑞安藥局",
+                "phone": "(03)8876616",
+                "address": "花蓮縣瑞穗鄉中山路１段６號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販賣時間：每天上午8點開始販售，賣完為止。",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3771,
+                    23.49752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5946012205",
+                "name": "欣華藥局",
+                "phone": "(089)320676",
+                "address": "臺東縣臺東市更生路７７號１樓",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "口罩販賣時間早上8:30到售完為止（星期ㄖ早上8:30售完為止）",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1486,
+                    22.75825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5946012312",
+                "name": "仁愛藥局",
+                "phone": "(089)350360",
+                "address": "臺東縣臺東市光明路４０號",
+                "brand": "羅氏家用新冠病毒抗原自我檢測套組",
+                "count": 78,
+                "note": "快篩實名制販售時間為8:00-9:00",
+                "updated": "2022\/05\/01 22:30:02",
+                "service_periods": "NNNNNNYNNNNNYYYYYYYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1539,
+                    22.75747
+                ]
+            }
+        }
+    ]
+}
