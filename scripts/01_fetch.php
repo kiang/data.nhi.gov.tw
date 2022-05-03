@@ -58,6 +58,9 @@ $fc = [
 $fh = fopen($rawFile, 'r');
 fgetcsv($fh, 2048);
 $check = [];
+$pointMap = [
+    '5903200194' => [120.70416, 24.094718],
+];
 
 while ($line = fgetcsv($fh, 2048)) {
     if (isset($check[$line[0]])) {
@@ -79,6 +82,10 @@ while ($line = fgetcsv($fh, 2048)) {
         $tmp = $line[3];
         $line[3] = $line[4];
         $line[4] = $tmp;
+    }
+    if (isset($pointMap[$line[0]])) {
+        $line[3] = $pointMap[$line[0]][0];
+        $line[4] = $pointMap[$line[0]][1];
     }
     $f = [
         'type' => 'Feature',
