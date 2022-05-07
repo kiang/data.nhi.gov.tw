@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'e965478afd87a0a4eee41e0d4f19c9258a3ff6d6',
     'name' => '__root__',
   ),
   'versions' => 
   array (
     '__root__' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'e965478afd87a0a4eee41e0d4f19c9258a3ff6d6',
     ),
     'fabpot/goutte' => 
     array (
@@ -28,6 +28,15 @@
       array (
       ),
       'reference' => 'f51940fbe0db060bc4fc0b3f1d19bc4ff3054b17',
+    ),
+    'phayes/geophp' => 
+    array (
+      'pretty_version' => '1.2',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '015404e85b602e0df1f91441f8db0f9e98f7e567',
     ),
     'php-http/async-client-implementation' => 
     array (
