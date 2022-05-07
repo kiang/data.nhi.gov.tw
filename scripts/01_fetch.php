@@ -26,6 +26,7 @@ $full = [];
 if (file_exists($fullFile)) {
     $fh = fopen($fullFile, 'r');
     while ($line = fgetcsv($fh, 2048)) {
+        $line[7] = 0; // reset the count
         $full[$line[0]] = $line;
     }
     fclose($fh);
