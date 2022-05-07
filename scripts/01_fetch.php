@@ -3,13 +3,6 @@ require __DIR__ . '/vendor/autoload.php';
 $basePath = dirname(__DIR__);
 
 $targetFile = $basePath . '/docs/antigen.json';
-$targetPool = [];
-if (file_exists($targetFile)) {
-    $json = json_decode(file_get_contents($targetFile), true);
-    foreach ($json['features'] as $f) {
-        $targetPool[$f['properties']['id']] = $f;
-    }
-}
 /**
     [0] => 3835010175
     [1] => 錦昌中醫診所
@@ -26,6 +19,16 @@ fgetcsv($fh, 2048);
 $pool = [];
 while ($line = fgetcsv($fh, 2048)) {
     $pool[$line[0]] = $line[5];
+}
+
+$fullFile = $basePath . '/raw/full.csv';
+$full = [];
+if (file_exists($fullFile)) {
+    $fh = fopen($fullFile, 'r');
+    while ($line = fgetcsv($fh, 2048)) {
+        $full[$line[0]] = $line;
+    }
+    fclose($fh);
 }
 
 use Goutte\Client;
@@ -51,10 +54,7 @@ file_put_contents($rawFile, $client->getResponse()->getContent());
     [8] => 來源資料時間
     [9] => 備註
  */
-$fc = [
-    'type' => 'FeatureCollection',
-    'features' => [],
-];
+
 $fh = fopen($rawFile, 'r');
 fgetcsv($fh, 2048);
 $check = [];
@@ -88,6 +88,17 @@ while ($line = fgetcsv($fh, 2048)) {
         $line[3] = $pointMap[$line[0]][0];
         $line[4] = $pointMap[$line[0]][1];
     }
+    $full[$line[0]] = $line;
+}
+ksort($full);
+
+$fc = [
+    'type' => 'FeatureCollection',
+    'features' => [],
+];
+$oFh = fopen($fullFile, 'w');
+foreach ($full as $line) {
+    fputcsv($oFh, $line);
     $f = [
         'type' => 'Feature',
         'properties' => [
@@ -109,13 +120,6 @@ while ($line = fgetcsv($fh, 2048)) {
             ],
         ],
     ];
-    $fc['features'][] = $f;
-    if (isset($targetPool[$line[0]])) {
-        unset($targetPool[$line[0]]);
-    }
-}
-foreach ($targetPool as $f) {
-    $f['properties']['count'] = 0; // force 0 if the record was removed
     $fc['features'][] = $f;
 }
 
