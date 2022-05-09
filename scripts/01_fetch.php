@@ -99,6 +99,9 @@ $fc = [
 ];
 $oFh = fopen($fullFile, 'w');
 foreach ($full as $line) {
+    if (strlen($line[0]) !== 10) {
+        continue;
+    }
     fputcsv($oFh, $line);
     $f = [
         'type' => 'Feature',
