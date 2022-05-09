@@ -109,8 +109,8 @@ foreach ($full as $line) {
             'address' => $line[2],
             'brand' => $line[6],
             'count' => intval($line[7]),
-            'note' => $line[9],
-            'updated' => $line[8],
+            'note' => isset($line[9]) ? $line[9] : '',
+            'updated' => isset($line[8]) ? $line[8] : '',
             'service_periods' => isset($pool[$line[0]]) ? $pool[$line[0]] : '',
         ],
         'geometry' => [
