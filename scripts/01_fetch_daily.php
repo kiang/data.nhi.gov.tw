@@ -5,6 +5,31 @@ use Goutte\Client;
 
 $client = new Client();
 /**
+ * 健保特約醫事機構-醫學中心
+ * https://data.nhi.gov.tw/Datasets/DatasetDetail.aspx?id=325
+ */
+$client->request('GET', 'https://data.nhi.gov.tw/DataSets/DataSetResource.ashx?rId=A21030000I-D21001-003');
+$rawFile = dirname(__DIR__) . '/raw/A21030000I-D21001-003.csv';
+file_put_contents($rawFile, $client->getResponse()->getContent());
+
+/**
+ * 健保特約醫事機構-區域醫院
+ * https://data.nhi.gov.tw/Datasets/DatasetDetail.aspx?id=326
+ */
+$client->request('GET', 'https://data.nhi.gov.tw/DataSets/DataSetResource.ashx?rId=A21030000I-D21002-005');
+$rawFile = dirname(__DIR__) . '/raw/A21030000I-D21002-005.csv';
+file_put_contents($rawFile, $client->getResponse()->getContent());
+
+/**
+ * 健保特約醫事機構-地區醫院
+ * https://data.nhi.gov.tw/Datasets/DatasetDetail.aspx?id=327
+ */
+$client->request('GET', 'https://data.nhi.gov.tw/DataSets/DataSetResource.ashx?rId=A21030000I-D21003-003');
+$rawFile = dirname(__DIR__) . '/raw/A21030000I-D21003-003.csv';
+file_put_contents($rawFile, $client->getResponse()->getContent());
+
+
+/**
  * 健保特約醫事機構-診所
  * https://data.nhi.gov.tw/Datasets/DatasetDetail.aspx?id=328
  */
